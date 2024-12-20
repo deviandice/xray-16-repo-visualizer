@@ -12,6 +12,9 @@
 
 **OpenXRay** is an improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.
 
+##Visualisation
+![Visualization of this repo](./diagram.svg)
+
 ## Goals
 1. Make it a drop-in replacement for original engine.
     1. Aim at 99% compatibility and same behaviour, where possible.
